@@ -4,15 +4,15 @@ feedgen==1.0.0
     # via -r requirements.txt
 jinja2==3.1.6
     # via -r requirements.txt
-lxml==5.3.1
+lxml==6.1.0
     # via feedgen
 markupsafe==3.0.2
     # via jinja2
-pillow==11.1.0
+pillow==13.0.0
     # via -r requirements.txt
 pyaes==1.6.1
     # via telethon
-pyasn1==0.6.1
+pyasn1==0.6.5
     # via rsa
 python-dateutil==2.9.0.post0
     # via feedgen
